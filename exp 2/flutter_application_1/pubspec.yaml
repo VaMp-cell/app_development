@@ -1,0 +1,27 @@
+name: expense_tracker
+description: A Flutter Expense Tracking App
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  drift: ^2.12.1
+  sqlite3_flutter_libs: ^0.5.15
+  path_provider: ^2.1.1
+  path: ^1.8.3
+  fl_chart: ^0.63.0
+  flutter_localizations:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  drift_dev: ^2.12.1
+  build_runner: ^2.4.6
+
+flutter:
+  uses-material-design: true
