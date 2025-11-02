@@ -1,6 +1,6 @@
 {
-    "name": "calc",
-    "short_name": "calc",
+    "name": "calc_with_history",
+    "short_name": "calc_with_history",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
